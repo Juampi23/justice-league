@@ -1,7 +1,6 @@
-# Objetivos de la repositorio
+# Repository objectives
+This project is in charge of managing the justice league plans.
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
+## Notes
+You can do whatever you want...
