@@ -6,3 +6,6 @@ You can do whatever you want...
 
 ### Updated from GitHub
 Just adding some text as a test of using GitHub for editing files and then pull the changes from the computer.
+
+#### Updated from local repository
+Just modifying something to later push the changes to GitHub.
