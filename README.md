@@ -12,3 +12,4 @@ Just modifying something to later push the changes to GitHub.
 
 ##### Again, from GitHub
 Some text
+##### These are new changes from my local repository
